@@ -1,0 +1,15 @@
+Assembly started for file: test2.asm
+Timestamp: 1731240331
+
+Error at line 4: Duplicate label: label
+Error at line 6: Invalid operand: 08ge
+Error at line 7: Missing operand for ldc
+Error at line 10: Invalid label name: 0def
+Error at line 11: Invalid mnemonic: fibble
+Error at line 12: Invalid mnemonic: 0def
+Error at line 13: Undefined label: nonesuch
+Warning at line 0: Unused label: label
+
+Assembly completed with:
+- 7 error(s)
+- 1 warning(s)

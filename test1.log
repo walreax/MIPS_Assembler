@@ -1,0 +1,8 @@
+Assembly started for file: test1.asm
+Timestamp: 1731240349
+
+Warning at line 0: Unused label: label
+
+Assembly completed with:
+- 0 error(s)
+- 1 warning(s)
